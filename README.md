@@ -21,7 +21,11 @@ comando `cp`y comenta el cambio como "Añado la parte teórica".
 6. Crea un cuaderno en **Jupyter** con el nombre 
 `parte-practica.ipynb`.
 
-7. Edita README.md para enlazar los demás archivos.
+7. **Edita README.md para enlazar los demás archivos.**
+
+- Acceso a la [parte teórica](https://github.com/Pontedatos/adhikarrilucea-extra/blob/main/parte-teorica.md)
+- Acceso a la [parte práctica en *Python 3*](https://github.com/Pontedatos/adhikarrilucea-extra/blob/main/parte-practica.ipynb)
+- Acceso a la [parte práctica en *Markdown*](https://github.com/Pontedatos/adhikarrilucea-extra/blob/main/parte-practica.md)
 
 8. Configura el repositorio para que funcione "Pages".
 
